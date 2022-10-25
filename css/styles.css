@@ -1,0 +1,146 @@
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color:  #EAF6F6;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+}
+
+hr {
+    border: none #EAF6F6 10px;
+    border-top-style: dotted;
+    margin: 100px auto;
+    width: 5%;
+}
+
+p {
+    line-height: 2;
+}
+
+
+.ad-soyad {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+
+.alt-bulut {
+    bottom: 300px;
+    left: 250px;
+    position: absolute;
+}
+
+.alt-div {
+    background-color: #66BFBF;
+    line-height: 2;
+    padding: 50px 0 20px;
+    position: relative;
+
+}
+
+.btn {
+    background: #1dc4ae;
+    background-image: -webkit-linear-gradient(top, #1dc4ae, #1176db);
+    background-image: -moz-linear-gradient(top, #1dc4ae, #1176db);
+    background-image: -ms-linear-gradient(top, #1dc4ae, #1176db);
+    background-image: -o-linear-gradient(top, #1dc4ae, #1176db);
+    background-image: linear-gradient(to bottom, #1dc4ae, #1176db);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    border-style: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #59d4b7;
+    background-image: -webkit-linear-gradient(top, #59d4b7, #3498db);
+    background-image: -moz-linear-gradient(top, #59d4b7, #3498db);
+    background-image: -ms-linear-gradient(top, #59d4b7, #3498db);
+    background-image: -o-linear-gradient(top, #59d4b7, #3498db);
+    background-image: linear-gradient(to bottom, #59d4b7, #3498db);
+    text-decoration: none;
+}
+
+.contact-me-p {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.fıtness {
+    float: right;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.football {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.my-profile {
+    height: 200px;
+    width: 200px;
+}
+
+.orta-div {
+    margin: 100px 0;
+}
+
+.profil-p {
+    width: 30%;
+    margin: auto;
+
+}
+
+.skill-row {
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.üst-div {
+    background-color: #e0ebe8;
+    padding-top: 100px;
+    position: relative;
+}
+
+.üst-bulut {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
